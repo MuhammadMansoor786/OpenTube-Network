@@ -1,0 +1,6 @@
+{
+  "name": "OpenTube Network",
+  "description": "Decentralized, community-governed video-sharing platform with IPFS content addressing, P2P video streaming, ActivityPub federation, and cryptographic user identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
